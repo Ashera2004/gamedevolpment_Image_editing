@@ -51,3 +51,7 @@
 
 
 ## OUTPUT:
+
+<img width="533" height="722" alt="Screenshot 2025-10-24 160113" src="https://github.com/user-attachments/assets/4cdbe16b-69e7-4276-b9f4-7c527bb4e9da" />
+
+
