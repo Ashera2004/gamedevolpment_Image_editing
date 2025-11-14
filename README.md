@@ -52,7 +52,8 @@
 
 ## OUTPUT:
 
-<img width="533" height="722" alt="Screenshot 2025-10-24 160113" src="https://github.com/user-attachments/assets/4cdbe16b-69e7-4276-b9f4-7c527bb4e9da" />
+<img width="1984" height="2806" alt="Blue Yellow and White Psychedelic Music Festival Poster" src="https://github.com/user-attachments/assets/073eedda-1553-45cc-9ba9-4f29d471971e" />
+
 
 ## RESULT
 
